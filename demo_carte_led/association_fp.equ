@@ -1,0 +1,9 @@
+
+#LED
+'LED' 'LED_THT:LED_D5.0mm'
+
+#Resistance
+'220' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+
+#Connecteur
+'GROVE' 'Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical'
