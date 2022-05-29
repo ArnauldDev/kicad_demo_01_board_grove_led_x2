@@ -1,5 +1,6 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
+# https://www.atlassian.com/fr/git/tutorials/saving-changes/gitignore
 
 # Temporary files
 *.000
@@ -24,3 +25,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# FreeCAD temporary files
+*.FCStd?
