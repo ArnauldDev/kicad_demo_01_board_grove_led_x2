@@ -115,7 +115,17 @@ Locale: French/France (fr_FR)
 
 ![Extrusion: Extrude les faces planes d'un objet](img/freecad-extrusion-pcb-20x40mm.png)
 
-Wiki, FreeCAD Documentation : [Aide en ligne - table des matières](https://wiki.freecadweb.org/Online_Help_Toc/fr)
+Depuis le menu **Fichier > Exporter**; sélectionner le **Sketch** de **Body** pour obtenir un contour de carte correcte, puis choisir le format **Autodesk DXF 2D (*.dxf)** :
+
+![Exporter BodySketch avec Autodesk DXF 2D (*.dxf)](img/freecad-exporter-Autodesk-DXF-2D.png)
+
+Et voici le test de l'import dans KiCad :
+
+![Import BodySketch](img/kicad-test-import-edge-cuts-from-dxf.png)
+
+### FreeCAD Documentation
+
+Wiki : [Aide en ligne - table des matières](https://wiki.freecadweb.org/Online_Help_Toc/fr)
 
 * [Atelier PCB](https://wiki.freecadweb.org/PCB_Workbench/fr)
 * [Atelier KicadStepUp](https://wiki.freecadweb.org/KicadStepUp_Workbench/fr)
